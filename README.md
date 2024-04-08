@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that involves coding
 - 📫 How to reach me click my LinkedIn link and message me there or email me on bongisiweshabalala@outlook.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: coding was never something i was passionate about from a young age, it chose me.
+- ⚡ Fun fact: coding was never something I was passionate about from a young age, I started having interest on it during my varsity years.
 
 <!---
 beeyourthingscode/beeyourthingscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
